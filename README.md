@@ -15,9 +15,7 @@ A modern resume builder web application that helps you create professional resum
 
 ## Live Demo
 
-👉 [https://your-username.github.io/resume-builder-pro/](https://your-username.github.io/resume-builder-pro/)
-
-*(Replace `your-username` with your GitHub username)*
+👉https://nagula-lahari.github.io/Resume-builder/
 
 ## Built With
 
@@ -34,7 +32,7 @@ A modern resume builder web application that helps you create professional resum
    git clone https://github.com/your-username/resume-builder-pro.git
 Open index.html in any browser - no build required!
 
-How It Works
+**How It Works**
 Fill in your details in the form
 
 See changes instantly in the preview panel
@@ -52,5 +50,5 @@ Fork the repository
 
 Create a pull request
 
-License
+**License**
 MIT License - see LICENSE file!
