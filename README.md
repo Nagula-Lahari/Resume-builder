@@ -2,7 +2,7 @@
 
 A modern resume builder web application that helps you create professional resumes quickly and easily.
 
-![Resume Builder Screenshot](https://via.placeholder.com/800x500?text=Resume+Builder+Pro+Preview) *(Add real screenshot later)*
+[Screenshot 2025-06-21 220037](https://github.com/user-attachments/assets/ed755525-9a53-4d22-8983-458c7030d7e0)
 
 ## Features
 
@@ -53,4 +53,4 @@ Fork the repository
 Create a pull request
 
 License
-MIT License - see LICENSE file![Screenshot 2025-06-21 220037](https://github.com/user-attachments/assets/ed755525-9a53-4d22-8983-458c7030d7e0)
+MIT License - see LICENSE file!
