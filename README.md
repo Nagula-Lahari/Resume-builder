@@ -1,8 +1,8 @@
 # Resume Builder Pro 📄✨
 
 A modern resume builder web application that helps you create professional resumes quickly and easily.
+![Screenshot 2025-06-21 220037](https://github.com/user-attachments/assets/44a864ad-7570-45d1-898f-d06561d12fed)
 
-[Screenshot 2025-06-21 220037](https://github.com/user-attachments/assets/ed755525-9a53-4d22-8983-458c7030d7e0)
 
 ## Features
 
